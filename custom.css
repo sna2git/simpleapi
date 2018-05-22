@@ -12,6 +12,7 @@ image{
 	border: 1px solid #efefef;
 	box-shadow: 2px 2px 2px 2px;
 }
-p{
+p, pre, table th{
 	font-weight: bold;
 }
+
