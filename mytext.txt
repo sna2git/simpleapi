@@ -2,12 +2,16 @@
 Hi, how are you git?
 and how about your work? well or not?
 
-from sna
+from sna.......
 ----------------------------------
 Hi, how are you git?
 and how about your work? well or not?
 
-from sna
+from sna.......
 ----------------------------------
+----------------------------------
+<<<<<<< HEAD
 ==================================
 ----------------------------------
+=======
+>>>>>>> 53a2919c452421469dd126c3bfc04e82a5d8e11a
